@@ -1,4 +1,4 @@
-# Introdução a Programação com Python 3.0
+# Introdução a Programação com Python 3.0 utilizando Google Colaboratory
 
 **Claudio Machado Paulo**
 
@@ -9,46 +9,60 @@
 
 ### Curso de Python para iniciantes parte 1:
 
-A) Introdução a lógica de programação
+[A) O que é uma IDE da linguagem de programação Python?](ling_prog.md)
 
-B) O que é uma IDE da linguagem de programação Python? <br>
+[A. 1) Configurando o Ambiente de programação](conf_prog.md)
+
+[B) Introdução a lógica de programação](intro_logica_prog.md)
+
 C) Conceitos Básicos:
 
-[1) Variáveis] <br>
+1) Variáveis
 
-[2) Operadores aritméticos] <br>
+2) Operadores aritméticos
 
-[3) Operadores lógicos] <br>
+3) Operadores lógicos
 
-[4) Operadores relacionais] <br>
+4) Operadores relacionais
 
-[5) Operadores de Atribuição] <br>
+5) Operadores de Atribuição
 
-[6) Extra] <br>
+6) Extra
 
-[7) Estruturas de Dados utilizadas em Python]
+7) Estruturas de Dados utilizadas em Python
 
-   [a) Listas] <br>
-   [b) Tuplas] <br>
-   [c) Dicionários] <br>
-   [d) Conjuntos] <br>
+   a) Listas
+
+   b) Tuplas
+
+   c) Dicionários
+
+   d) Conjuntos
 
 
 ### Curso de Python para iniciantes parte 2:
 
-[1) Estruturas de decisão e repetição] <br>
+1) Estruturas de decisão e repetição
 
-   [A) Estruturas de decisão]<br>
-   [B) Estruturas de repetição]<br>
-   [C) Combinando as estruturas]<br>
+   A) Estruturas de decisão
+
+   B) Estruturas de repetição
+
+   C) Combinando as estruturas
+
     
-[2) Erros e exceções] <br>
+2) Erros e exceções
     
-[3) Métodos e funções] <br>
+3) Métodos e funções
 
-   [A) Funções] <br>
-   [B) Métodos] <br>
+   A) Funções
 
-[4) Módulos e pacotes] <br>
+   B) Métodos
 
-[5) Programação orientada a objetos (POO)]>
+4) Módulos e pacotes
+
+5) Programação orientada a objetos (POO)
+
+### Curso Análise de dados utilizando Python:
+
+
